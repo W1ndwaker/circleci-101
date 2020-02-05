@@ -20,5 +20,5 @@
     jobs:
       - one
       - two:
-       requires:
-        - one
+          requires:
+           - one
